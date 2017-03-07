@@ -1,0 +1,13 @@
+	External devices attached to uC provide functionality for the sys.
+	An INPUT PORT is hardware on uC that allows info about external world to be entered in to computer.
+	uC also has OUTPUT PORT to send info out.
+	
+	INTERFACE is defined as the collection of the I/O port, external electronics, physical devices, software.
+ which combine to allow the computer to COMMUNICATE with world.
+	
+	LED - software turn light on and off. 
+	Types of INTERFACE:
+	+ PARALLEL - binary data availbe simultaneously on a group of lines
+	+ SERIAL - _____________________ one bit at a time on a single line
+	+ ANALOG - data are encoded as an voltage, current, power
+	+ DIGITAL - __________________ a period, freq, pulse width, phase shift

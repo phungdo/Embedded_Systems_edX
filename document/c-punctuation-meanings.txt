@@ -1,0 +1,9 @@
+punctuation	meaning
+;		SEMICOLONS. end of statement
+: 		COLONS. defines a label.
+,		COMMAS. seperates elements of a list
+()		PARENTHESES. start and end of a parameter list.
+{}		BRACKETS. start and stop a compound statement
+[]		BRACES. start and stop of a array index.
+""		QUOTATION MARKS. start and stop of a string
+''		APOSTROPHES. start and stop of a character constant.
